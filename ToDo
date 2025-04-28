@@ -1,0 +1,58 @@
+💬 Chat-Funktionalitäten
+Sidebar mit Gesprächen (Liste aller bisherigen Chats / Sessions)
+
+Button für "Neuen Chat starten"
+
+Button zum Öffnen/Schließen der Sidebar
+
+Chatpositionierung:
+
+Start: Chatfenster mittig auf der Seite.
+
+Nach Start eines Gesprächs: Chat wandert etwas nach unten (z.B. um Platz für Verlauf oder Sidebar zu schaffen).
+
+Textanzeige:
+
+Eingaben und KI-Antworten klar und mittig lesbar ausrichten.
+
+Gute Typografie (z.B. Schriftgröße, Zeilenabstand) für angenehmes Lesen.
+
+📄 Datei-Upload
+PDF-Dateien hochladen können:
+
+Möglichkeit, PDFs in den Chat zu laden.
+
+Optional: PDF-Inhalt auslesen lassen, sodass KI auf Basis davon antworten kann.
+
+🧠 KI-Intelligenz
+Kontextbezug:
+
+KI kann vorherige Nachrichten/Gesprächsverlauf mit einbeziehen.
+
+Sessions behalten ein Gedächtnis innerhalb eines Gesprächs.
+
+Chatverlauf speichern:
+
+Speichern einzelner Sessions.
+
+Möglichkeit zum späteren Wiederöffnen oder Fortsetzen eines Chats.
+
+🎨 Design und Branding
+Eigenes Logo erstellen:
+
+Einfaches Branding für die Plattform (z.B. für Header oder Sidebar).
+
+Idee: Ein freundlicher Lern-Coach-Avatar als Logo?
+
+🛠️ Optionale Erweiterungen (für die Zukunft)
+Benutzer-Accounts (Login, eigenes Chat-Archiv)
+
+Themen-Speicherung (Chat nach Thema oder Fach sortieren)
+
+Sprachausgabe (Chat auch vorgelesen bekommen)
+
+Quiz/Übungsaufgaben automatisch generieren (basierend auf dem Chat)
+
+Adaptive Lernvorschläge (KI schlägt nächste Lernschritte vor)
+
+Multimodale Eingaben (Bilder oder Audios neben PDFs zulassen)
